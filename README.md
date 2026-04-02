@@ -1,4 +1,4 @@
-# The-Castle-of-Frankenstein
+# The Castle of Frankenstein
 ## About the Game
 A short Choose Your Own Adventure/Interactive Fiction story made in Twine (HTML + CSS + JavaScript) based on Mary Shelley's famous novel
 - Features branching routes and 3 unique endings
